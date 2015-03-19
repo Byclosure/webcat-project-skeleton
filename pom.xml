@@ -24,7 +24,7 @@
         <dependency>
             <groupId>com.byclosure.webcat</groupId>
             <artifactId>webcat-testing-platform</artifactId>
-            <version>0.0.12</version>
+            <version>0.0.13</version>
             <scope>test</scope>
         </dependency>
         <dependency>

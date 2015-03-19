@@ -21,5 +21,6 @@ public class FeatureLifecycleSteps {
     @After
     public void afterScenario(Scenario scenario) {
         webDriver.quit();
+	webDriver = null;
     }
 }
